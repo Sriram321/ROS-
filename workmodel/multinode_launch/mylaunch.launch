@@ -1,0 +1,12 @@
+<launch>
+
+<node pkg="workmodel" type="node1.py" name="node1" output="screen">
+</node>
+
+<node pkg="workmodel" type="node2.py" name="node2" output="screen">
+</node>
+
+<node pkg="workmodel" type="node3.py" name="node3" output="screen">
+</node>
+
+</launch>
